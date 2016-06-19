@@ -5,7 +5,7 @@ const App = React.createClass({
     render (){
         return (
             <div>
-                Hello, world!
+                Hello, world! hehe
             </div>
         );
     }
