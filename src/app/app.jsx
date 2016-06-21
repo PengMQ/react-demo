@@ -16,7 +16,7 @@ const counter = (state = 0, action)=>{
 const Counter = ({value, onIncrement, onDecrement}) => (
     <div>
         <h1>{value}</h1>
-        <button onClick={onIncrement}>+</button>
+        <bgitutton onClick={onIncrement}>+</button>
         <button onClick={onDecrement}>-</button>
     </div>
 );
